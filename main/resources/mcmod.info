@@ -1,0 +1,16 @@
+[
+{
+  "modid": "infinity",
+  "name": "Simple-Report",
+  "description": "Diese Mod soll es dem Spieler erleichtern auf dem GommeHD.Net chatlogs zu erstellen und diese per Knopfdruck zu reporten.",
+  "version": "${version}",
+  "mcversion": "${mcversion}",
+  "url": "",
+  "updateUrl": "",
+  "authorList": ["Milchbar, SimonSky"],
+  "credits": "",
+  "logoFile": "",
+  "screenshots": [],
+  "dependencies": []
+}
+]

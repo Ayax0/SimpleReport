@@ -1,0 +1,5 @@
+keyBinding.key=Report-Menu öffnen
+keyBinding.category=Auto Report
+gui.page=Seite
+gui.next=Weiter
+gui.last=Zurück
